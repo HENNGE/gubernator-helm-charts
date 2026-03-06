@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   gubernator:
   - apiVersion: v2
+    appVersion: 2.17.1
+    created: "2026-03-06T07:26:04.0686473Z"
+    description: A Helm Chart for gubernator
+    digest: 72a123213f2b74bcd83afd6c74bb499a7963daa12e3591512db7cb4ed0ce218d
+    name: gubernator
+    type: application
+    urls:
+    - https://github.com/HENNGE/gubernator-helm-charts/releases/download/gubernator-2.17.1/gubernator-2.17.1.tgz
+    version: 2.17.1
+  - apiVersion: v2
     appVersion: 2.16.0
     created: "2025-11-18T07:35:00.809565615Z"
     description: A Helm Chart for gubernator
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/HENNGE/gubernator-helm-charts/releases/download/gubernator-2.16.0/gubernator-2.16.0.tgz
     version: 2.16.0
-generated: "2025-11-18T07:35:00.809574952Z"
+generated: "2026-03-06T07:26:04.068656427Z"
